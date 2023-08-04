@@ -12,3 +12,5 @@ Exploratory Data Analysis.
 Data Pre-Processing.
 Model Training.
 Choose Best Model.
+
+![Phishing diagram](https://github.com/nevetto/phishing_domain_detection/assets/82023798/38e7c85f-eb28-4a59-9e79-1dc78389b8d5)
