@@ -8,4 +8,9 @@ xgboost
 Flask
 dill
 pycaret
+catboost
+
+# New models for classiffier
+
+
 -e .
